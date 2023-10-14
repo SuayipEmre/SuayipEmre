@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuayipEmre
-- 👀 I’m interested in  front end decelopment
+- 👀 I’m interested in  front end development
 - 🌱 I’m currently learning react.js and redux toolkit
   
 
