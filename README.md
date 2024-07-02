@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şuayip Emre </h1>
-<h3 align="center">A Mobile developer who loves to code, eager to learn, and passionate</h3>
+<h3 align="center">A Frontend developer who loves to code, eager to learn, and passionate</h3>
 
-- 🌱 I’m currently learning **SwiftUI & React Native**
+- 🌱 I’m currently learning **React § SwiftUI & React Native**
 
 - 👨‍💻 All of my projects are available at [my website](https://portfoliosuayipemresozen.netlify.app/)
 
