@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şuayip Emre</h1>
 <h3 align="center">A Full Stack & Mobile developer from Türkiye</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfoliosuayipemresozen.netlify.app/](https://portfoliosuayipemresozen.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.emresozen.dev/](https://www.emresozen.dev/)
 
 - How to reach me **suayipemredev@gmail.com**
 
