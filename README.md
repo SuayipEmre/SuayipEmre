@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.emresozen.dev/](https://www.emresozen.dev/)
 
-- How to reach me **suayipemredev@gmail.com**
+- How to reach me **contact@emresozen.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
